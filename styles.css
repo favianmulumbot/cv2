@@ -1,0 +1,61 @@
+h2.title{
+  color: aqua;
+  font-size: 2.5rem;
+  font-family: 'Anton', sans-serif;
+}
+
+h1.color1{
+    color: blue;
+}
+
+#top-containercolor{
+    background-color: orange;
+}
+
+#top-containercolor2{
+    background-color: yellow;
+}
+
+div.box1{
+    width: 300px;
+    height: 200px;
+    background-color: gold;
+    position: absolute;
+    
+}
+
+div.box2{
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    position: relative;
+    left: 320px;
+}
+
+span.span1{
+    font-size: 2.5em;
+    font-family: 'Rokkitt', serif;
+}
+
+span.span2{
+    font-size: 1.5em;
+    font-family: 'Spectral SC', serif;
+}
+
+span.span3{
+    font-size: 30px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+h3:hover{
+    color: white;
+    background-color: green;
+}
+
+#bottom-container{
+    background-color: lightgreen;
+}
+
+a[href*="github"]{
+    background-color: red;
+}
